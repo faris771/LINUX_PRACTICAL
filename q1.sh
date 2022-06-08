@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#ADD 4-BIT BINARY NUMBERS
 echo 'WELCOME'
 
 echo 'please input 1st 4-bit number'
