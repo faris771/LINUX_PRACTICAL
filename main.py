@@ -1,3 +1,4 @@
+#Q2: FIND PALINDOROMIC WORDS IN A TXT FILE, ( SPERATED BY SPACE, MORE THAN ONE LINE )
 def main():
     print('WELCOME ')
     fileNameIn= input('please input file name to read from ')
